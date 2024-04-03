@@ -2,9 +2,6 @@ Certainly! Here's a revised version of the README for the `EpicChainSmartContrac
 
 ---
 
-<p align="center">
-  <img src="/.github/resources/images/logo.png" width="200px;">
-</p>
 
 <p align="center">
   <b>EpicChain Smart Contract Kit</b>
